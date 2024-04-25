@@ -1,23 +1,41 @@
 # Recommender_GNN
- Text Mining final project
 
 # Useful Links:
 [Valuable Python Library (DGL) to train and test GNN models for recommendation](https://docs.dgl.ai/)
 
 [Example repo](https://github.com/je-dbl/GNN-RecSys)
 
-
-# Possible Data Sets:
-- [Book Recommendation Dataset - Kaggle](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=classicRec.png)
-   - This Data Set is good because it contains language data that we can easily process. We can take inspiration from the codes that have been made, and take it a step further by implementing a GNN architecture.
-- [Jester Datasets](https://eigentaste.berkeley.edu/dataset/)
-   - 6.5 million anonymous ratings of jokes by users of the Jester Joke Recommender System.
-   - Paper to help: [Building a Recommender System with Text Embeddings using Python and LightFM](https://medium.com/@r.kosse/building-a-embedding-recommender-system-with-python-and-lightfm-e18b3df16e88)
-
 # Papers to look into:
 - [A survey of GNNs for recommender systems](https://arxiv.org/pdf/2109.12843.pdf)
 - [Product recommendation system using GNN](https://ceur-ws.org/Vol-3426/paper15.pdf)
 - [Graph based product recommendation](https://nhtsai.github.io/graph-rec/)
 
+# Abstract
+A max 150-word description of the project question or idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 
 # Research Question
+
+Tentative list of RQs:
+- How to apply GNN to a recommender system for books?
+- How should our node be characterized?
+- What would our edge consist of?
+- Would the algorithm be more centered around user similarity or item similarity?
+
+# Dataset
+List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show you've read the docs and are familiar with some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+
+- [Book Recommendation Dataset - Kaggle](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=classicRec.png)
+  - This Data Set is good because it contains language data that we can easily process. We can take inspiration from the codes that have been made, and take it a step further by implementing a GNN architecture.
+
+
+ 
+# A tentative list of milestones for the project
+Add here a sketch of your planning for the coming weeks. Please mention who does what.
+
+* 1st week: Preprocessing (Jules, someone)
+* 2nd week: Get the model architecture (Barto, someone)
+* 3rd week: continue previous weeks work and train the model (Barto, someone, someone)
+* 4th week: Evaluate the model performance and do the presentation (Jules, Barto, Naglis, Linka)
+
+# Documentation
+This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
