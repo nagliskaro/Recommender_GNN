@@ -13,10 +13,6 @@
 - [Jester Datasets](https://eigentaste.berkeley.edu/dataset/)
    - 6.5 million anonymous ratings of jokes by users of the Jester Joke Recommender System.
    - Paper to help: [Building a Recommender System with Text Embeddings using Python and LightFM](https://medium.com/@r.kosse/building-a-embedding-recommender-system-with-python-and-lightfm-e18b3df16e88)
-- [Facebook Social circles dataset](http://snap.stanford.edu/data/ego-Facebook.html)
-   - Used for other [friend recommendation algorithms](https://medium.com/stanford-cs224w/friend-recommendation-using-graphsage-ffcda2aaf8d6)
-   - Papers to help: [Friend Recommendation using GNN](https://dl.acm.org/doi/pdf/10.1145/3442381.3450120)
-- [Other Data Sets to look into](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 
 # Papers to look into:
 - [A survey of GNNs for recommender systems](https://arxiv.org/pdf/2109.12843.pdf)
