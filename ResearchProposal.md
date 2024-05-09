@@ -1,3 +1,4 @@
+# Project Update 1 
 # Research Proposal: Book Recommender System with Graph Neural Networks (GNNs)
 
 ### Datasets
@@ -11,7 +12,6 @@
       - This dataset contains the ratings that different users gave to books. We are probably going to merge the books and ratings data sets based on their ISBN number.
   3. Users.csv
       - This dataset contains the users IDs, their locations, and their age. We are going to use this information as further data to recommend books to users, with a similar background.
-
 
 ### Research Question
   - **How can Graph Neural Networks (GNNs) enhance a reccomendation system for books based on user-based collaborative filtering?**
