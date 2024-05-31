@@ -40,7 +40,7 @@
     1. **Root mean square error (RMSE)**
     2. **Average reciprocal hit rate (ARHR)**
 
-- Using (1) we will evalute the predicted ratings to the "ground truth" provided by the ratings.csv dataset.
+- Using (1) we will evaluate the predicted ratings to the "ground truth" provided by the ratings.csv dataset.
 - Using (2) we will evaluate the top N predictions for a specific user, with an emphasis on the ranking of the actual item in the prediction set.  
 - We aim to compare our results with a baseline model such as Support Vector Machine or other collaborative filtering methods. Thus by comparing our GNN results against these models we will be able to determine the performance of our model.
   - We are going to take these comparison/baseline models from Kaggle projects on the same Dataset.
